@@ -1,0 +1,282 @@
+body {
+  background: black;
+}
+
+section {
+  display: flex;
+  background-color: #eee8aa;
+  width: 70rem;
+  height: 35rem;
+  margin: 10rem auto;
+}
+
+div:nth-child(0) {
+  width: 2.3333333333rem;
+  animation: tipptipp 5.1s infinite alternate;
+  height: 2rem;
+  background-image: linear-gradient(1deg, white 0%, #5d3289 75%);
+  border-radius: 0 0 1.2rem 2.3rem;
+}
+
+div:nth-child(1) {
+  width: 2.3333333333rem;
+  animation: tipptipp 5.1s infinite alternate;
+  height: 2rem;
+  background-image: linear-gradient(326deg, white 0%, #ff52ab 59%);
+  border-radius: 1.3rem 1.9333333333rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(2) {
+  width: 2.3333333333rem;
+  animation: tipptipp 9.6s infinite alternate;
+  height: 25rem;
+  background-image: linear-gradient(61deg, white 0%, #5d3289 38%);
+  border-radius: 0 0 1.6333333333rem 0.7rem;
+}
+
+div:nth-child(3) {
+  width: 2.3333333333rem;
+  animation: tipptipp 10.1s infinite alternate;
+  height: 24rem;
+  background-image: linear-gradient(316deg, white 0%, #ff52ab 33%);
+  border-radius: 1.4333333333rem 1.3333333333rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(4) {
+  width: 2.3333333333rem;
+  animation: tipptipp 3.3s infinite alternate;
+  height: 32rem;
+  background-image: linear-gradient(101deg, white 0%, #5d3289 81%);
+  border-radius: 0 0 1.3666666667rem 0.0666666667rem;
+}
+
+div:nth-child(5) {
+  width: 2.3333333333rem;
+  animation: tipptipp 10.2s infinite alternate;
+  height: 26rem;
+  background-image: linear-gradient(105deg, white 0%, #ff52ab 48%);
+  border-radius: 1.4666666667rem 0.3666666667rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(6) {
+  width: 2.3333333333rem;
+  animation: tipptipp 5.3s infinite alternate;
+  height: 2rem;
+  background-image: linear-gradient(99deg, white 0%, #5d3289 59%);
+  border-radius: 0 0 0.8rem 1.4666666667rem;
+}
+
+div:nth-child(7) {
+  width: 2.3333333333rem;
+  animation: tipptipp 2.1s infinite alternate;
+  height: 26rem;
+  background-image: linear-gradient(90deg, white 0%, #ff52ab 34%);
+  border-radius: 0.6333333333rem 0.2333333333rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(8) {
+  width: 2.3333333333rem;
+  animation: tipptipp 10.8s infinite alternate;
+  height: 32rem;
+  background-image: linear-gradient(223deg, white 0%, #5d3289 82%);
+  border-radius: 0 0 2.0333333333rem 1.5rem;
+}
+
+div:nth-child(9) {
+  width: 2.3333333333rem;
+  animation: tipptipp 3.6s infinite alternate;
+  height: 28rem;
+  background-image: linear-gradient(57deg, white 0%, #ff52ab 5%);
+  border-radius: 1.9666666667rem 1.2666666667rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(10) {
+  width: 2.3333333333rem;
+  animation: tipptipp 1.9s infinite alternate;
+  height: 26rem;
+  background-image: linear-gradient(334deg, white 0%, #5d3289 6%);
+  border-radius: 0 0 0.4rem 0.2333333333rem;
+}
+
+div:nth-child(11) {
+  width: 2.3333333333rem;
+  animation: tipptipp 8.2s infinite alternate;
+  height: 28rem;
+  background-image: linear-gradient(320deg, white 0%, #ff52ab 80%);
+  border-radius: 1.6666666667rem 1.1333333333rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(12) {
+  width: 2.3333333333rem;
+  animation: tipptipp 6.4s infinite alternate;
+  height: 20rem;
+  background-image: linear-gradient(131deg, white 0%, #5d3289 80%);
+  border-radius: 0 0 1.5333333333rem 0.6666666667rem;
+}
+
+div:nth-child(13) {
+  width: 2.3333333333rem;
+  animation: tipptipp 7.7s infinite alternate;
+  height: 5rem;
+  background-image: linear-gradient(207deg, white 0%, #ff52ab 42%);
+  border-radius: 2.0333333333rem 0.6666666667rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(14) {
+  width: 2.3333333333rem;
+  animation: tipptipp 8.1s infinite alternate;
+  height: 25rem;
+  background-image: linear-gradient(129deg, white 0%, #5d3289 74%);
+  border-radius: 0 0 0.1333333333rem 1.4rem;
+}
+
+div:nth-child(15) {
+  width: 2.3333333333rem;
+  animation: tipptipp 11.7s infinite alternate;
+  height: 3rem;
+  background-image: linear-gradient(29deg, white 0%, #ff52ab 83%);
+  border-radius: 1.9666666667rem 0.3666666667rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(16) {
+  width: 2.3333333333rem;
+  animation: tipptipp 8.1s infinite alternate;
+  height: 18rem;
+  background-image: linear-gradient(278deg, white 0%, #5d3289 72%);
+  border-radius: 0 0 1.2333333333rem 1.0333333333rem;
+}
+
+div:nth-child(17) {
+  width: 2.3333333333rem;
+  animation: tipptipp 4.7s infinite alternate;
+  height: 19rem;
+  background-image: linear-gradient(36deg, white 0%, #ff52ab 10%);
+  border-radius: 0.5rem 0.8rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(18) {
+  width: 2.3333333333rem;
+  animation: tipptipp 12s infinite alternate;
+  height: 12rem;
+  background-image: linear-gradient(54deg, white 0%, #5d3289 23%);
+  border-radius: 0 0 0.3333333333rem 1.9666666667rem;
+}
+
+div:nth-child(19) {
+  width: 2.3333333333rem;
+  animation: tipptipp 1.6s infinite alternate;
+  height: 8rem;
+  background-image: linear-gradient(105deg, white 0%, #ff52ab 34%);
+  border-radius: 2.0333333333rem 0.7666666667rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(20) {
+  width: 2.3333333333rem;
+  animation: tipptipp 2.4s infinite alternate;
+  height: 8rem;
+  background-image: linear-gradient(98deg, white 0%, #5d3289 4%);
+  border-radius: 0 0 1.5333333333rem 1.3666666667rem;
+}
+
+div:nth-child(21) {
+  width: 2.3333333333rem;
+  animation: tipptipp 9.7s infinite alternate;
+  height: 24rem;
+  background-image: linear-gradient(126deg, white 0%, #ff52ab 79%);
+  border-radius: 1.6333333333rem 1.9rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(22) {
+  width: 2.3333333333rem;
+  animation: tipptipp 4.8s infinite alternate;
+  height: 1rem;
+  background-image: linear-gradient(277deg, white 0%, #5d3289 63%);
+  border-radius: 0 0 0.3666666667rem 0.3rem;
+}
+
+div:nth-child(23) {
+  width: 2.3333333333rem;
+  animation: tipptipp 11s infinite alternate;
+  height: 18rem;
+  background-image: linear-gradient(45deg, white 0%, #ff52ab 44%);
+  border-radius: 1.3rem 0.9rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(24) {
+  width: 2.3333333333rem;
+  animation: tipptipp 6.8s infinite alternate;
+  height: 29rem;
+  background-image: linear-gradient(163deg, white 0%, #5d3289 17%);
+  border-radius: 0 0 0.3rem 1.9rem;
+}
+
+div:nth-child(25) {
+  width: 2.3333333333rem;
+  animation: tipptipp 5s infinite alternate;
+  height: 20rem;
+  background-image: linear-gradient(249deg, white 0%, #ff52ab 57%);
+  border-radius: 0.6666666667rem 1.1333333333rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(26) {
+  width: 2.3333333333rem;
+  animation: tipptipp 2.2s infinite alternate;
+  height: 14rem;
+  background-image: linear-gradient(146deg, white 0%, #5d3289 2%);
+  border-radius: 0 0 1.5666666667rem 0.7333333333rem;
+}
+
+div:nth-child(27) {
+  width: 2.3333333333rem;
+  animation: tipptipp 5s infinite alternate;
+  height: 6rem;
+  background-image: linear-gradient(353deg, white 0%, #ff52ab 54%);
+  border-radius: 2.0666666667rem 1.0333333333rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(28) {
+  width: 2.3333333333rem;
+  animation: tipptipp 9.9s infinite alternate;
+  height: 24rem;
+  background-image: linear-gradient(4deg, white 0%, #5d3289 48%);
+  border-radius: 0 0 0.5666666667rem 1.0666666667rem;
+}
+
+div:nth-child(29) {
+  width: 2.3333333333rem;
+  animation: tipptipp 10.8s infinite alternate;
+  height: 34rem;
+  background-image: linear-gradient(200deg, white 0%, #ff52ab 96%);
+  border-radius: 0.8rem 1.2333333333rem 0 0;
+  align-self: flex-end;
+}
+
+div:nth-child(30) {
+  width: 2.3333333333rem;
+  animation: tipptipp 7.6s infinite alternate;
+  height: 14rem;
+  background-image: linear-gradient(311deg, white 0%, #5d3289 8%);
+  border-radius: 0 0 1rem 2.1333333333rem;
+}
+
+@keyframes tipptipp {
+  to {
+    height: 0;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */
